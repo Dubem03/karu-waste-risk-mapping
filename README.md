@@ -10,17 +10,19 @@ Which communities in Karu LGA are potentially exposed to environmental risks ass
 
 ## Key Datasets
 
-- Waste disposal site locations
-- Karu LGA boundary
-- Settlement locations
-- Population data
-- Rivers and waterways
-- Digital Elevation Model (DEM)
-- Slope
-- Land use/land cover
-- Rainfall
-- Geological data
-- Soil data
+**Key Dataset	Source**
+
+Waste disposal site locations	Karu waste management survey / field data
+Karu LGA boundary	GRID3 Data Hub
+Settlement locations	GRID3 Data Hub
+Population data	WorldPop
+Rivers and waterways	OpenStreetMap
+Digital Elevation Model (DEM)	OpenTopography / Copernicus DEM
+Slope	Derived from DEM in QGIS
+Land use/land cover	ESA WorldCover
+Rainfall	CHIRPS
+Geological data	Nigeria Geological Survey Agency (NGSA)
+Soil data	ISRIC / SoilGrids
 
 ## Project Goal
 
