@@ -42,16 +42,6 @@
 - Coverage: OpenStreetMap coverage is not uniform. Some areas contain more mapped features than others, particularly in built-up areas.
 - Data quality note: Missing OSM features do not necessarily mean that the feature does not exist on the ground. They may indicate that it has not been mapped.
 
-## Digital Elevation Model
-
-- Source: OpenTopography / Copernicus DEM
-- Website: https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3
-- Dataset type: Digital Elevation Model
-- Geometry: Raster
-- Purpose: Provides elevation information for the study area and can be used to derive terrain characteristics such as slope.
-- Coverage: The DEM covers the study area.
-- Data quality note: The raster contains elevation values for individual cells. Areas with no valid elevation value are represented by the dataset's NoData value.
-
 ## Data Inspection
 
 The datasets were opened and inspected in QGIS.
