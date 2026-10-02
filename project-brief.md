@@ -1,69 +1,29 @@
-# Karu Waste Disposal Environmental Risk Mapping Project
+# My project brief
 
-## Project Question
+## The question
 
-Which communities in Karu Local Government Area, Nasarawa State, are potentially exposed to environmental risks associated with waste disposal sites?
+Which settlements within Karu, Aso-Kodupe and Bagaji-Agada wards of Karu Local Government Area, Nasarawa State, are potentially exposed to environmental risks associated with waste disposal sites?
 
-## Why This Project Matters
+## The data I need
 
-Improper waste disposal can create potential environmental risks to nearby communities through surface runoff, infiltration and other pathways. Karu LGA is a rapidly developing area with numerous waste disposal locations and expanding settlements.
+- Waste disposal site locations — Karu Waste Management Baseline Survey / Field Data — https://www.researchgate.net/publication/398493212_BASELINE_SURVEY_AND_FIELD_OBSERVATION_OF_WASTE_MANAGEMENT_IN_KARU_LGA_NASARAWA_STATE_NIGERIA_A_report_by_the_Global_Initiative_for_Food_Security_and_Ecosystem_Preservation_GIFSEP_Funded_by_the_United_
 
-This project will use GIS to examine the spatial relationship between waste disposal sites, settlements, waterways, population and selected environmental factors. The results will help identify areas that may require further environmental investigation and improved waste management.
+- Ward boundaries for Karu, Aso-Kodupe and Bagaji-Agada — GRID3 Data Hub — https://grid3.org/geospatial-data-nigeria
 
-## Study Area
+- Settlement locations — GRID3 Data Hub — https://grid3.org/geospatial-data-nigeria
 
-The study area is Karu Local Government Area in Nasarawa State, Nigeria. Karu is located adjacent to the Federal Capital Territory and contains rapidly developing urban and peri-urban communities.
+- Population data — WorldPop — https://www.worldpop.org/
 
-## Data Required
+- Rivers and waterways — OpenStreetMap — https://www.openstreetmap.org/
 
-1. Karu LGA boundary
-2. Waste disposal site locations
-3. Settlement locations/extents
-4. Population data
-5. Rivers and waterways
-6. Digital Elevation Model (DEM)
-7. Slope derived from the DEM
-8. Land use/land cover
-9. Rainfall data
-10. Geological data
-11. Soil data
+- Digital Elevation Model (DEM) — OpenTopography / Copernicus GLO-30 — https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3
 
-## Data Sources
+- Slope — Derived from DEM in QGIS — https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3
 
-- **Administrative Boundary:** GRID3 Data Hub
-- **Waste Disposal Sites:** Karu waste management survey/field data
-- **Settlements:** GRID3 Data Hub
-- **Population:** WorldPop
-- **Rivers and Waterways:** OpenStreetMap
-- **Elevation:** OpenTopography / Copernicus DEM
-- **Land Use/Land Cover:** ESA WorldCover
-- **Rainfall:** CHIRPS
-- **Geological Data:** Nigeria Geological Survey Agency (NGSA)
-- **Soil Data:** ISRIC / SoilGrids
+- Land use/land cover — ESA WorldCover — https://esa-worldcover.org/en/data-access
 
-## Planned GIS Analysis
+- Rainfall — CHIRPS — https://www.chc.ucsb.edu/data/chirps3
 
-The project will investigate the spatial relationships between waste disposal sites and:
+- Geological data — Nigeria Geological Survey Agency (NGSA) — https://ngsa.gov.ng/geological-maps/
 
-- nearby communities and settlements
-- population distribution
-- rivers and waterways
-- elevation and slope
-- land use/land cover
-- rainfall
-- geology
-- soil characteristics
-
-Distance and proximity analysis will be used to identify areas where communities and environmental features occur close to waste disposal sites.
-
-## Expected Final Product
-
-The final project is expected to produce a GIS-based environmental risk assessment and map showing areas of potential environmental exposure associated with waste disposal sites in Karu LGA.
-
-The project may later be developed into an interactive web GIS application for visualizing waste disposal sites, environmental factors and potential risk areas.
-
-## Data Feasibility
-
-The required datasets have been identified and are available from a combination of open geospatial data sources, official Nigerian agencies and waste-management field/survey data.
-
-The most important dataset requiring careful validation is the waste disposal site dataset because the accuracy and completeness of waste-site locations directly affect the reliability of the final analysis.
+- Soil data — ISRIC / SoilGrids — https://isric.org/explore/soilgrids/
