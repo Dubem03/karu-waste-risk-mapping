@@ -25,10 +25,7 @@ The buffer output was used to identify areas surrounding the waste disposal poin
 | 1 km | 16,098 |
 | 2 km | 52,853 |
 
-These results represent **potential exposure based on spatial proximity** to waste disposal points. They do not confirm contamination or direct health risk.
-
+These results represent **potential exposure based on spatial proximity** to waste disposal points. They do not confirm contamination or direct health risk
 ## Map Output
 
 The map shows the identified waste disposal points and their surrounding buffer zones, providing a visual representation of the spatial relationship between waste locations and nearby areas.
-
-![Week 4 Buffer Analysis Map](week4-buffer-analysis-map.png)
