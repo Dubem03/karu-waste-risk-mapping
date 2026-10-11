@@ -7,3 +7,6 @@ This project uses geospatial and environmental datasets, including waste disposa
 The project applies GIS-based spatial analysis, including proximity and buffer analysis, to examine the spatial relationship between waste disposal sites and settlements and identify areas of potential environmental exposure. Built over twelve months with GeoDev Lab Africa, Cohort One.
 
 See `project-brief.md` for the full project brief.
+
+# Month 2: Preparation of environment and early python 
+-Week-5: I setup python, vs code and the terminal. hello.py runs
