@@ -10,3 +10,4 @@ See `project-brief.md` for the full project brief.
 
 # Month 2: Preparation of environment and early python 
 -Week-5: I setup python, vs code and the terminal. hello.py runs
+-Week-6: I setup the python project environment using uv, installing and managing pandas and geopandas, and understanding project dependencies through pyproject.toml and uv.lock. I learned how to manage python packages, run scripts and maintain a reproducible development environment. 
