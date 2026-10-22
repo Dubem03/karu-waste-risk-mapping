@@ -14,3 +14,6 @@ I setup python, vs code and the terminal. hello.py runs.
 
 # Week-6: 
 I setup the python project environment using uv, installing and managing pandas and geopandas, and understanding project dependencies through pyproject.toml and uv.lock. I learned how to manage python packages, run scripts and maintain a reproducible development environment. 
+
+# Week 7: 
+I ran analyse.py that reads wards.csv, it also converts each area and classifies each ward.
